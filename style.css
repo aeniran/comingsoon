@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ayo{
+    width: 100%;
+    height: 100vh;
+    background-image: url(forestbridge.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.jo{
+    width: 5%;
+    height: 7vh;
+}
+.logo{
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+.com{
+    text-align: center;
+    padding-top: 14%;
+    font-size: 60px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.so{
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 20px;
+}
+.co{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.pow{
+    padding-top: 19%;
+    padding-left: 10px;
+    color: white;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
